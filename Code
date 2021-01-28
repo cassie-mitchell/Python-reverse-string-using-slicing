@@ -1,0 +1,3 @@
+input_str = input("Please enter a string:\n") #request user input and save in a variable
+slicedString=input_str[::-1] #reverse your string by the predefined Python slicing method and save it in another variable
+print('Reverse String using slicing =', slicedString) #print the reverse of the string
